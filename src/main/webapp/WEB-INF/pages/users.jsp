@@ -18,7 +18,7 @@
     </c:forEach>
    
     
-    <h5>Free parking spots: ${numberOfFreeParkingSpots}</h5>
+            <!--<h5>Free parking spots: ${numberOfFreeParkingSpots}</h5> -->  
 </t:pageTemplate>
    
   
